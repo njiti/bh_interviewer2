@@ -1,0 +1,8 @@
+python-dotenv
+openai
+requests
+streamlit
+
+langchain==0.1.13
+PyPDF2
+faiss-cpu
